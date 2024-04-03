@@ -8,6 +8,7 @@ const Block = ({ turn, callBack, newGame }) => {
       setBoxValue(" ");
     }
   });
+   console.log("Hello Everyone")
   return (
     <div
       className="grid h-[100px]"
